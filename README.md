@@ -1,6 +1,6 @@
 # Urban Routes web app testing (UI/UX testing)
 
-The Urban Routes app builds routes and calculates the travel time and cost for different types of transportation. This testing project contains finding a bugs (i.e., the difference between the expected result and the actual result) in UI and reporting them in Jira.
+The Urban Routes app builds routes and calculates the travel time and cost for different types of transportation. This testing project contains finding a bugs (i.e., the difference between the expected result and the actual result) in UI and reporting them in Jira
 
 ## Table of contents
 
